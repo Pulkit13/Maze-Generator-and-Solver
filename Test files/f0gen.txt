@@ -1,0 +1,72 @@
+Wall 29 removed.
+Wall 42 removed.
+Wall 2 removed.
+Wall 69 removed.
+Wall 31 removed.
+Wall 66 removed.
+Wall 84 removed.
+Wall 79 removed.
+Wall 1 removed.
+Wall 106 removed.
+Wall 105 removed.
+Wall 89 removed.
+Wall 37 removed.
+Wall 25 removed.
+Wall 43 removed.
+Wall 54 removed.
+Wall 40 removed.
+Wall 97 removed.
+Wall 8 removed.
+Wall 100 removed.
+Wall 95 removed.
+Wall 59 removed.
+Wall 44 removed.
+Wall 78 removed.
+Wall 93 removed.
+Wall 4 removed.
+Wall 64 removed.
+Wall 51 removed.
+Wall 23 removed.
+Wall 74 removed.
+Wall 18 removed.
+Wall 52 removed.
+Wall 30 removed.
+Wall 81 removed.
+Wall 46 removed.
+Wall 71 removed.
+Wall 102 removed.
+Wall 13 removed.
+Wall 6 removed.
+Wall 32 removed.
+Wall 67 removed.
+Wall 107 removed.
+Wall 50 removed.
+Wall 14 removed.
+Wall 27 removed.
+Wall 26 removed.
+Wall 9 removed.
+Wall 91 removed.
+Wall 41 removed.
+Wall 86 removed.
+Wall 21 removed.
+Wall 101 removed.
+Wall 62 removed.
+Wall 63 removed.
+Wall 19 removed.
+Wall 57 removed.
+Wall 104 removed.
+Wall 15 removed.
+Wall 33 removed.
+Wall 38 removed.
+Wall 76 removed.
+Wall 83 removed.
+Wall 34 removed.
++ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+| |     |   |   |     | | |     |
++ +-+-+ + +-+ +-+ +-+ + + +-+ + +
+|         | |     |           | |
++ +-+-+-+ + + +-+ +-+-+ +-+ +-+-+
+|       |     |   |   | |   |   |
++-+ + +-+ +-+ + +-+ +-+-+ +-+ +-+
+|   |   |   | |       |         |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ +
